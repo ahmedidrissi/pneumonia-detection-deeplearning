@@ -6,4 +6,4 @@
  Source : https://www.kaggle.com/datasets/praveengovi/coronahack-chest-xraydataset
  
 # Summary
- I first used the two models DenseNet-121 and EfficientNet-V2-B0 to compare them and choose the best performer between them. Then I improved the EfficientNet model which showed good performance during training. The final results showed great prediction with an accuracy of 92%.
+ First, I used the two models DenseNet-121 and EfficientNet-V2-B0 to compare them and choose the best performer between them. Then I improved the EfficientNet model which showed good performance during training. The final results showed great prediction with an accuracy of 92%.
